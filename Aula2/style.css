@@ -48,6 +48,14 @@ section a, section button {
 article p {
     display: inline-block;
 }
+
+article{
+    background-color: blueviolet;
+}
+
+section > h2{
+    background-color: blueviolet;
+}
 article div {
     background-color: aqua;
     padding: 20px;

@@ -53,6 +53,10 @@ article div {
     padding: 20px;
 }
 
+article > div > p {
+    color: white;
+}
+
 input {
     padding: 5px 10px;
 }
@@ -61,6 +65,6 @@ footer {
     background-color: aqua;
 }
 
-footer p {
+footer > p {
     text-align: center;
 }
